@@ -1,15 +1,13 @@
 ##  ![LakoMoor Dev](docs/logo.png) 
-**LKBox**
+**LKGame**
 
-![BUILD](https://img.shields.io/appveyor/build/LAKOMOOR/LKBOX?logo=CMAKE&style=plastic)
-
-**A Work-In-Progress**. **LKBox** - cross-platform game engine based on C++ and GLFW 
+**A Work-In-Progress**. **LKGame** - game based on [LKBox](https://github.com/lakomoordev/lkbox)
 
 ## Screenshot
 
-![LKBox](docs/screenshot/first.PNG)
+![LKGame](docs/screenshot/first.PNG)
 
-![LKBox](docs/screenshot/second.PNG)
+![LKGame](docs/screenshot/second.PNG)
 
 ## Getting started
 ### Building ReadMe
@@ -24,21 +22,8 @@ A game template repository can be found here:
 A Work-In-Progress.
 
 ## Used libraries
-* [LKBox](https://github.com/lakomoor/lkbox)
-  * [GLFW]()
-  * [GLAD]()
-  * [GLM]()
-  * [IMGUI]()
-  * [Assimp]()
-
-**NO USED**
-* [Bullet]()
-* [LuaBridge]()
-* [OpenAL]()
-* [STB]()
-* [zlib]()
-* [TinyXML]()
-
+* [LKBox](https://github.com/lakomoordev/lkbox)
+* 
 ## License
 
-`LKBox` source code is licensed under the terms of the [MIT License](https://github.com/LakoMoor/LKBox/blob/master/LICENSE)
+`LKGame` source code is licensed under the terms of the [MIT License](https://github.com/lakomoordev/LKGame/blob/master/LICENSE)
