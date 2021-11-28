@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0)
 
-project(LKBox_GameTemplate VERSION 0.1.0)
+project(LKGame VERSION 0.1.0)
 
 option(BUILD_SHARED_LIBS "Build Shared Libraries" ON) 
 
@@ -35,7 +35,7 @@ endif()
 
 
 add_executable(
-        LKBox_GameTemplate
+        LKGame
         src/main.cpp 
 )
-target_link_libraries(LKBox_GameTemplate PUBLIC LKBox)
+target_link_libraries(LKGame PUBLIC LKBox)
