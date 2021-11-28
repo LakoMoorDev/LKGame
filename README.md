@@ -23,7 +23,7 @@ A Work-In-Progress.
 
 ## Used libraries
 * [LKBox](https://github.com/lakomoordev/lkbox)
-* 
+ 
 ## License
 
 `LKGame` source code is licensed under the terms of the [MIT License](https://github.com/lakomoordev/LKGame/blob/master/LICENSE)
