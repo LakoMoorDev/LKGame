@@ -4,7 +4,7 @@ project(LKGame VERSION 0.1.0)
 
 option(BUILD_SHARED_LIBS "Build Shared Libraries" ON) 
 
-set(CMAKE_CXX_STANDARD_LIBRARIES "-static-libgcc -static-libstdc++ -lwsock32 -lws2_32 ${CMAKE_CSS_STANDARD_LIBRARIES}")
+set(CMAKE_CXX_STANDARD_LIBRARIES "-static-libstdc++ -static-libgcc -Wl,-Bstatic -lstdc++ -lpthread -Wl,-Bdynamic")
 
 
 
