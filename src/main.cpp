@@ -3,7 +3,7 @@
 
 int main()
 {
-    Core(1280, 720, "GameTemplate", true);
+    Core(1280, 720, "LKGame", true);
     //debug(true);
 
 	return 0;
